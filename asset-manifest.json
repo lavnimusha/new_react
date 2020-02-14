@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lavnimusha/new_react/static/css/main.d1b05096.chunk.css",
-    "main.js": "/lavnimusha/new_react/static/js/main.4209f31a.chunk.js",
-    "main.js.map": "/lavnimusha/new_react/static/js/main.4209f31a.chunk.js.map",
-    "runtime-main.js": "/lavnimusha/new_react/static/js/runtime-main.6ec982cc.js",
-    "runtime-main.js.map": "/lavnimusha/new_react/static/js/runtime-main.6ec982cc.js.map",
-    "static/js/2.020f2057.chunk.js": "/lavnimusha/new_react/static/js/2.020f2057.chunk.js",
-    "static/js/2.020f2057.chunk.js.map": "/lavnimusha/new_react/static/js/2.020f2057.chunk.js.map",
-    "index.html": "/lavnimusha/new_react/index.html",
-    "precache-manifest.2969cc307cec917819987e6d4dff7e08.js": "/lavnimusha/new_react/precache-manifest.2969cc307cec917819987e6d4dff7e08.js",
-    "service-worker.js": "/lavnimusha/new_react/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/lavnimusha/new_react/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.020f2057.chunk.js.LICENSE.txt": "/lavnimusha/new_react/static/js/2.020f2057.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/lavnimusha/new_react/static/media/logo.5d5d9eef.svg"
+    "main.css": "/github.io/new_react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/github.io/new_react/static/js/main.17f25731.chunk.js",
+    "main.js.map": "/github.io/new_react/static/js/main.17f25731.chunk.js.map",
+    "runtime-main.js": "/github.io/new_react/static/js/runtime-main.5a9e05f2.js",
+    "runtime-main.js.map": "/github.io/new_react/static/js/runtime-main.5a9e05f2.js.map",
+    "static/js/2.020f2057.chunk.js": "/github.io/new_react/static/js/2.020f2057.chunk.js",
+    "static/js/2.020f2057.chunk.js.map": "/github.io/new_react/static/js/2.020f2057.chunk.js.map",
+    "index.html": "/github.io/new_react/index.html",
+    "precache-manifest.a10af520450f52f70868466f41f3d206.js": "/github.io/new_react/precache-manifest.a10af520450f52f70868466f41f3d206.js",
+    "service-worker.js": "/github.io/new_react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/github.io/new_react/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.020f2057.chunk.js.LICENSE.txt": "/github.io/new_react/static/js/2.020f2057.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github.io/new_react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ec982cc.js",
+    "static/js/runtime-main.5a9e05f2.js",
     "static/js/2.020f2057.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.4209f31a.chunk.js"
+    "static/js/main.17f25731.chunk.js"
   ]
 }
